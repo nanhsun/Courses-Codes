@@ -1,0 +1,50 @@
+Albuquerque, NM
+Anchorage, AK
+Atlanta, GA
+Austin, TX
+Boise, ID
+Boston, MA
+Burbank, CA
+Charlotte, NC
+Chicago, IL
+Cincinnati, OH
+Dallas/Fort Worth, TX
+Denver, CO
+Detroit, MI
+Fairbanks, AK
+Honolulu, HI
+Houston, TX
+Juneau, AK
+Kahului, HI
+Kansas City, MO
+Ketchikan, AK
+Kona, HI
+Las Vegas, NV
+Lihue, HI
+Long Beach, CA
+Los Angeles, CA
+Memphis, TN
+Miami, FL
+Milwaukee, WI
+Minneapolis, MN
+Nashville, TN
+New York, NY
+Newark, NJ
+Oakland, CA
+Ontario, CA
+Orlando, FL
+Palm Springs, CA
+Philadelphia, PA
+Phoenix, AZ
+Portland, OR
+Reno, NV
+Sacramento, CA
+Salt Lake City, UT
+San Diego, CA
+San Francisco, CA
+San Jose, CA
+Santa Ana, CA
+Spokane, WA
+St. Louis, MO
+Tucson, AZ
+Washington, DC

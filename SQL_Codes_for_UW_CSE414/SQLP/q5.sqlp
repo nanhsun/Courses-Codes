@@ -1,0 +1,5 @@
+USE geo;
+SELECT m.name as mountain, int(m.height) as height, y.`-car_code` as country_code, y.name as country
+FROM geo.world x, x.mondial.country y, x.mondial.mountain m, split(m.`-country`," ") as SplitString
+WHERE y.`-car_code` = SplitString
+ORDER BY int(m.height) DESC;
